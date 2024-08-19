@@ -6,7 +6,7 @@
 
 
 .banner {
-  background-image: url('../../img/black2.jpg'); /* Замените на URL вашего баннера */
+  background-image: url('../img/black2.jpg'); /* Замените на URL вашего баннера */
   background-size: cover;
   background-position: center;
   height: 400px;
